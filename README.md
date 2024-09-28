@@ -46,5 +46,7 @@ If our work is useful for your research, please consider citing:
   url={https://api.semanticscholar.org/CorpusID:270178160}
 }
 ```
+## Acknowledgements
+This code is built on LEDNet. We thank the authors for sharing their codes of LEDNet, i.e., https://shangchenzhou.com/projects/LEDNet.
 ## Contact
 If you have any questions, please feel free to reach me out at shibaoshun@ysu.edu.cn.
