@@ -30,7 +30,7 @@ LIME: " LIME: Low-light image enhancement via illumination map estimation"
 MEF: "Perceptual quality assessment for multi-exposure image fusion. IEEE Transactions on Image Processing"
  ```
 ## Else
- The testing code was originally written by Zhu Chunzi, a master's student of Professor Shi Baoshun, and was later modified by Zhao Yingshuai, also a master's student of Professor Shi Baoshun in 2024.9.27.
+ The testing code was originally written by Zhu Chunzi, a master student of Dr. Shi Baoshun, and was later summarized and added some annotations by Zhao Yingshuai, also a master student of Dr. Shi Baoshun in Sep.28th 2024.
  If you find this code helpful and use it in your research, please cite the associated paper and use it only for academic research purposes.
 
 ## Citation
